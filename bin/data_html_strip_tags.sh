@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 TMP=/tmp/data_html_strip_tags-temp.html
 echo "" > $TMP
